@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254114148625'] //ur owner number
-global.ownernomer = "254114148625" //ur owner number2
-global.ownername = "KANAMBO" //ur owner name
-global.ytname = "YT: MICKEY" //ur yt chanel name
-global.socialm = "GitHub: Kanambp" //ur github or insta name
-global.location = "Kenya, Nairobi, Kasarani" //ur location
+global.owner = ['27845521847'] //ur owner number
+global.ownernomer = "27845521847" //ur owner number2
+global.ownername = "Team Owl Modz" //ur owner name
+global.ytname = "YT: Team Owl Modz" //ur yt chanel name
+global.socialm = "GitHub: Team-Owl-Modz" //ur github or insta name
+global.location = "South Africa" //ur location
 
 //new
-global.botname = "MICKEY BOT"
-global.ownernumber = '254114148625'
-global.ownername = 'KANAMBO'
-global.ownerNumber = ["254114148625@s.whatsapp.net"]
+global.botname = "Team Owl Modz BOT"
+global.ownernumber = '27761786378'
+global.ownername = 'Team Owl Modz'
+global.ownerNumber = ["27845521847@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com"
-global.websitex = "https://youtu.be"
-global.wagc = "https://chat.whatsapp.com/Ei8SGOBRMH06aD3mk23fbF"
-global.themeemoji = '🙋🏾‍♂️'
-global.wm = "Kanambo Bot Inc."
+global.websitex = "https://www.teamowlmodz.com/"
+global.wagc = "https://chat.whatsapp.com/FumHBpombaLBgXX0RLcr8F"
+global.themeemoji = '🦉'
+global.wm = "Team Owl Modz"
 global.botscript = 'https://github.com/Kanambp/MICKEY' //script link
-global.packname = "Sticker By"
-global.author = "🙋🏾‍♂️KANAMBO\n\n+254114148625"
-global.creator = "254114148625@s.whatsapp.net"
+global.packname = "Sticker By Team Owl Modz Bot"
+global.author = "🦉Team Owl MOdz\n\n+27845521847"
+global.creator = "27845521847@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
